@@ -1,5 +1,5 @@
 # SE T17 - Compulsory Task 1 - Capstone project
-# Student: Marius Moldovan
+# Student: Marius M
 # Date: 04.06.2023
 
 # Notes: 
