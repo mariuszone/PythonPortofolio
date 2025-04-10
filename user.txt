@@ -1,0 +1,7 @@
+admin;password
+marius;marius
+george;Password
+john;Something
+ionut;ionut
+datax;datax
+datad;datad

@@ -1,0 +1,37 @@
+This Report that is saved in user_overview.txt has been generated on 2023-06-09.
+The total number of users that are registered on TMS is 7.
+The total number of tasks that have been generated and tracked by TMS is 17.
+Username: admin
+	The total number of tasks assigned to this user is 4.
+	The percentage of the total number of tasks assigned to this user is 24%.
+	The percentage of the tasks assigned to this user that have been completed is 0%.
+	The percentage of the tasks assigned to this user that must still be completed is 100%.
+	The percentage of the tasks assigned to this user that are overdue is 75%.
+Username: marius
+	The total number of tasks assigned to this user is 6.
+	The percentage of the total number of tasks assigned to this user is 35%.
+	The percentage of the tasks assigned to this user that have been completed is 33%.
+	The percentage of the tasks assigned to this user that must still be completed is 67%.
+	The percentage of the tasks assigned to this user that are overdue is 33%.
+Username: george
+	This user has no tasks allocated, therefore the statstics can't be generated.
+Username: john
+	The total number of tasks assigned to this user is 1.
+	The percentage of the total number of tasks assigned to this user is 6%.
+	The percentage of the tasks assigned to this user that have been completed is 0%.
+	The percentage of the tasks assigned to this user that must still be completed is 100%.
+	The percentage of the tasks assigned to this user that are overdue is 0%.
+Username: ionut
+	The total number of tasks assigned to this user is 5.
+	The percentage of the total number of tasks assigned to this user is 29%.
+	The percentage of the tasks assigned to this user that have been completed is 0%.
+	The percentage of the tasks assigned to this user that must still be completed is 100%.
+	The percentage of the tasks assigned to this user that are overdue is 80%.
+Username: datax
+	This user has no tasks allocated, therefore the statstics can't be generated.
+Username: datad
+	The total number of tasks assigned to this user is 1.
+	The percentage of the total number of tasks assigned to this user is 6%.
+	The percentage of the tasks assigned to this user that have been completed is 0%.
+	The percentage of the tasks assigned to this user that must still be completed is 100%.
+	The percentage of the tasks assigned to this user that are overdue is 0%.

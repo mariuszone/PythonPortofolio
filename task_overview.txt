@@ -1,0 +1,7 @@
+This Report that is saved in task_overview.txt has been generated on 2023-06-09.
+The total number of tasks that have been generated and tracked by TMS is 17.
+The total number of completed tasks is 2.
+The total number of uncompleted tasks is 15.
+The total number of uncompleted tasks that are overdue is 9.
+The percentage of tasks that are uncompleted is 88%.
+The percentage of tasks that are overdue is 53%.

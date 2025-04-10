@@ -1,0 +1,17 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+admin;Change main body; Change the main body of the program.;2022-12-01;2022-11-22;No
+admin;Modify a new list; Modify and add a new list for the tasks.;2022-12-01;2022-11-22;No
+admin;Nothing;No task please mark as done.;2023-12-01;2022-11-22;No
+marius;New Task for Marius;Something here as description.;2023-06-30;2023-06-07;No
+marius;2nd Task for Marius;Something 2 here as description.;2023-06-30;2023-06-07;Yes
+john;John needs to go to school;He needs to attend the school for 2 months;2023-08-30;2023-06-07;No
+marius;New Task at 20:23;I need to finish this!!;2023-06-07;2023-06-07;No
+ionut;Merge la piata;Merge la piata si cumpara zarzavaturi;2023-06-02;2023-06-07;No
+ionut;New Task 03;Task 03 needs replacing;2023-03-11;2023-06-07;No
+ionut;;;2023-03-02;2023-06-07;No
+ionut;Nothin here to see;Some description;2024-05-04;2023-06-07;No
+marius;New Task No 9;Description for the task;2023-06-08;2023-06-07;No
+marius;Today to do!;Do this today tasks;2023-06-22;2023-06-07;No
+ionut;NewTasjat2039;Description;2023-06-07;2023-06-07;No
+marius;NewNewNew;descriptionHere;2023-06-09;2023-06-07;Yes
+datad;New user induction;Induction to be done;2023-06-09;2023-06-09;No
